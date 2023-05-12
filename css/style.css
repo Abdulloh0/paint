@@ -180,11 +180,6 @@ section {
   border: 1px solid #4a98f7;
 }
 
-.drawing-board {
-  flex: 1;
-  overflow: hidden;
-}
-
 .drawing-board .canvas {
   width: 800px;
   height: 100%;
